@@ -1,3 +1,5 @@
+# IMPORTANTE
+Il file estetista.zip contiene il tema in tre colorazioni diverse
 # salone-bellezza
 Template html per saloni di bellezza. Libramente utilizzabile
 
